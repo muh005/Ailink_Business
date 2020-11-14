@@ -1,2 +1,2 @@
-Id,Total Price($),Down payment($),Loan Interest(%),Terms(Year),Property tax(%),HOA(%),Insurance(%),Rental rate of return(%),Return of asset(%)
-1,600000,300000,0.02375,30,0.0125,0.0024,0.0055,0.05,0.1
+,Id,Total Price($),Down payment($),Loan Interest(%),Terms(Year),Property tax(%),HOA(%),Insurance(%),Rental rate of return(%),Return of asset(%),Costs,RentalReturn,ROA,ProfitMargin
+0,1,600000,300000,0.02375,30,0.0125,0.0024,0.0055,0.05,0.1,27299.50778645316,30000.0,60000.0,2700.4922135468405
